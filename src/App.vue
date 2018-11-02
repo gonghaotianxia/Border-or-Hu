@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <h1>你好vue</h1>
-    <!-- <img src="./assets/logo.png">
-    <router-view/> -->
+    
+    <img src="./assets/logo.png">
+    <!-- <router-view/> -->
   </div>
 </template>
 
