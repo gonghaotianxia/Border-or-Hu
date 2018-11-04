@@ -1,17 +1,13 @@
 <template>
-  <div class="hello">
-    123
-  </div>
+    <div>
+        safd
+    </div>
 </template>
-
 <script>
 export default {
-  name: 'HelloWorld',
-  
-
+    name:"index1"
 }
 </script>
-
 <style scoped>
 
 </style>
