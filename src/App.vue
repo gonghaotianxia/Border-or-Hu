@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <h2>{{mss}}</h2>
-    <img src="./assets/logo.png">
+    
     <router-view/>
   </div>
 </template>
@@ -11,7 +10,7 @@ export default {
   name: 'App',
   data(){
     return {
-      mss:'我我'
+      
     }
   }
 }
