@@ -3,10 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import './assets/css/reset.css'
-import './assets/flexible/flexible_css.debug.js'
-import './assets/flexible/flexible.debug.js'
-Vue.config.productionTip = false
+// import './assets/css/reset.css'
+// import './assets/flexible/flexible_css.debug.js'
+// import './assets/flexible/flexible.debug.js'
+// Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
