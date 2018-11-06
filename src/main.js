@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import '../src/assets/js/flexible_css.debug'
+import '../src/assets/js/flexible.debug'
 import '../static/4.7.0/css/font-awesome.min.css'
 // import VideoPlayer from 'vue-video-player'
 // require('video.js/dist/video-js.css')
