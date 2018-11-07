@@ -7,6 +7,8 @@
     <!-- <router-link to='/'>默认界面</router-link>
     <router-link to='/ceshi'>路由a</router-link>
     <router-link to='/ceshia'>路由b</router-link> -->
+    
+    <router-view/>
   </div>
 </template>
 
@@ -19,7 +21,7 @@ export default {
   },
   data(){
     return {
-      mss:'我我'
+      
     }
   }
 }
