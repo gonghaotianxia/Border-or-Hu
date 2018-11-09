@@ -19,7 +19,7 @@
         </div>
   </div>
   <div class="til">
-    <p class="tils">嗯嗯嗯</p>
+    <p class="tils">小图片</p>
     <p class="tils">随心发</p>
   </div>
   <div class="foott">
