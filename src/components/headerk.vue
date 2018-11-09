@@ -14,7 +14,7 @@
           <img src="../assets/gzzy.png">
         </dt>
         <dd>
-          <!-- <router-link to='/ceshi' class="rout">各种指引</router-link> -->
+          <router-link to='/' class="rout">各种指引</router-link>
         </dd>
       </dl>
       <dl>
